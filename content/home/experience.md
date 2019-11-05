@@ -18,27 +18,71 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Assistant to Dr. M. Scott Taylor"
+  company = "University of Calgary"
+# company_url = ""
+  date_start = "2019-07-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+#  description = """
+#  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+#  * Analysing
+#  * Modelling
+#  * Deploying
+#  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Instructor for Statistics in Economics course"
+  company = "University of Calgary"
+#  company_url = ""
+  date_start = "2019-05-01"
+  date_end = "2019-06-01"
+#  description = """Taught electronic engineering and researched semiconductor physics."""
 
+[[experience]]
+  title = "Teaching Assistant for Statistics in Economics course"
+  company = "University of Calgary"
+#  company_url = ""
+  date_start = "2019-01-01"
+  date_end = "2019-04-01"
+#  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Research Assistant to Dr. M. Scott Taylor"
+  company = "University of Calgary"
+#  company_url = ""
+  date_start = "2016-01-01"
+  date_end = "2018-12-01"
+#  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Teaching Assistant for Principles in Macroeconomics course"
+  company = "University of Calgary"
+#  company_url = ""
+  date_start = "2015-09-01"
+  date_end = "2015-12-01"
+#  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Research Assistant for Dr. Pamela Campa"
+  company = "University of Calgary"
+#  company_url = ""
+  date_start = "2015-07-01"
+  date_end = "2015-08-01"
+#  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Teaching Assistant for various courses"
+  company = "University of Calgary"
+#  company_url = ""
+  date_start = "2014-09-01"
+  date_end = "2015-06-01"
+  description = """
+  Courses in order:
+  *Canadian Public Finance, Spring 2015
+  *Environmental Economics, Winter 2015
+  *The Global Trading System, Winter 2015
+  *Industrial Organization, Fall 2014
+  
+  """
 +++
