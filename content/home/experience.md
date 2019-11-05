@@ -79,10 +79,11 @@ date_format = "Jan 2006"
   date_end = "2015-06-01"
   description = """
   Courses in order:
-  *Canadian Public Finance, Spring 2015
-  *Environmental Economics, Winter 2015
-  *The Global Trading System, Winter 2015
-  *Industrial Organization, Fall 2014
+  
+  * Canadian Public Finance, Spring 2015
+  * Environmental Economics, Winter 2015
+  * The Global Trading System, Winter 2015
+  * Industrial Organization, Fall 2014
   
   """
 +++
