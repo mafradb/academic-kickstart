@@ -80,4 +80,4 @@ I am a PhD candidate in Economics at the University of Calgary. My main research
 
 I expect to graduate in 2021 and will be available for interviews on this year's virtual European, Canadian, and American job markets.
 
-{{% staticref "files/cv201910.pdf" %}}See my CV{{% /staticref %}}
+{{% staticref "static/files/cv201910.pdf" %}}See my CV{{% /staticref %}}
