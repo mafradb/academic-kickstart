@@ -62,9 +62,9 @@ social:
   link: https://www.linkedin.com/in/fruzsina-mayer/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv201910.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv201910.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -79,3 +79,5 @@ email: ""
 I am a PhD candidate in Economics at the University of Calgary. My main research interests are Labour Economics, Political Economy, and Gender Economics.
 
 I expect to graduate in 2021 and will be available for interviews on this year's virtual European, Canadian, and American job markets.
+
+{{% staticref "files/cv201910.pdf" %}}See my CV{{% /staticref %}}
