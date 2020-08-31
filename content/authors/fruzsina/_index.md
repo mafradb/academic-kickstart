@@ -18,18 +18,21 @@ organizations:
   url: "https://econ.ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My main research interests are Gender Economics, Political Economy, and Labour Economics.
+bio: My main research interests are Labour Economics, Political Economy, and Gender Economics.
 
 interests:
-- Gender Economics
-- Political Economy
 - Labour Economics
+- Applied Econometrics
+- Political Economy
+- Data Science
+- Gender Economics
+- Natural Resource Economics
 
 education:
   courses:
   - course: PhD in Economics
     institution: University of Calgary
-    year: Expected 2020
+    year: Expected 2021
   - course: MSc in Economics
     institution: Vienna University of Technology and Institute for Advanced Studies
     year: 2014
@@ -54,11 +57,14 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mafradb
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/fruzsina-mayer/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv201910.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv201910.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +76,8 @@ email: ""
 #- Visitors
 ---
 
-I am a PhD candidate in Economics at the University of Calgary. My main research interests are Political Economy, Gender Economics, and Labour Economics.
+I am a PhD candidate in Economics at the University of Calgary. My main research interests are Labour Economics, Political Economy, and Gender Economics.
 
-I expect to graduate in 2020 and will be available for interviews at the 2019 Canadian Economics Employment Exchange (CEEE) in Toronto.
+I expect to graduate in 2021 and will be available for interviews on this year's virtual European, Canadian, and American job markets.
+
+{{% staticref "files/cv201910.pdf" %}}See my CV{{% /staticref %}}
