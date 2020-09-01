@@ -32,12 +32,20 @@ date_format = "Jan 2006"
 #  """
 
 [[experience]]
+  title = "Research Assistant to Dr. M. Scott Taylor"
+  company = "University of Calgary"
+#  company_url = ""
+  date_start = "2019-07-01"
+  date_end = ""
+#  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
   title = "Instructor for Statistics in Economics course"
   company = "University of Calgary"
 #  company_url = ""
   date_start = "2019-05-01"
   date_end = "2019-06-01"
-#  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Course description available [here](https://econ.ucalgary.ca/manageprofile/sites/econ.ucalgary.ca.manageprofile/files/unitis/courses/ECON395/P2019/LEC1/ECON395-P2019-LEC1-outline.pdf)."""
 
 [[experience]]
   title = "Teaching Assistant for Statistics in Economics course"
