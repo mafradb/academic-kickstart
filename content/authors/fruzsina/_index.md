@@ -79,5 +79,3 @@ email: ""
 I am a PhD candidate in Economics at the University of Calgary. My main research interests are Labour Economics, Political Economy, and Gender Economics.
 
 I expect to graduate in 2021 and will be available for interviews on this year's virtual European, Canadian, and American job markets.
-
-{{% staticref "files/cv201910.pdf" %}}Download my CV{{% /staticref %}}
