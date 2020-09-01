@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   title = "Teaching Assistant Excellence Prize 2018-2019"
 #  url = 
 #  certificate_url = "https://www.coursera.org"
-  date_start = "2019-05-01"
+  date_start = "2019-07-01"
   date_end = ""
   description = """
   The Teaching Assistant Excellence Prize is awarded to the top teaching assistant by the Department of Economics once every school year.
@@ -52,20 +52,20 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Department of Economics, University of Calgary"
   organization_url = "https://econ.ucalgary.ca/"
-  title = "Econometrics Prize 2015-2016"
-#  url = 
+  title = "Econometrics Prize 2016"
+  url = https://econ.ucalgary.ca/news/department-economics-2016-prizes
 #  certificate_url = "https://www.coursera.org"
-  date_start = "2016-05-01"
+  date_start = "2016-06-01"
   date_end = ""
   description = ""
   
 [[item]]
   organization = "Department of Economics, University of Calgary"
   organization_url = "https://econ.ucalgary.ca/"
-  title = "Microeconomics Prize 2014-2015"
-#  url = 
+  title = "Microeconomics Prize 2015"
+  url = https://econ.ucalgary.ca/news/fruzsina-mayer-wins-2015-microeconomics-prize
 #  certificate_url = "https://www.coursera.org"
-  date_start = "2015-05-01"
+  date_start = "2015-06-01"
   date_end = ""
   description = ""
 
