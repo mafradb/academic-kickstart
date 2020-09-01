@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = "https://iac01.ucalgary.ca/FGSA/Public/SpecificAward.aspx?AwardID=4448"
 #  certificate_url = "https://www.coursera.org"
   date_start = "2015-05-01"
-  date_end = ""
+  date_end = "2019-04-01"
   description = """
   For more details on the Eyes High Strategy of the University of Calgary, click [here](https://www.ucalgary.ca/eyeshigh).
   Received in the following years:
