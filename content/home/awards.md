@@ -1,11 +1,11 @@
 +++
 # Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -22,16 +22,25 @@ date_format = "Jan 2006"
   organization = "University of Calgary"
   organization_url = "https://www.ucalgary.ca/"
   title = "Eyes High International Doctoral Scholarship"
-#  url = "https://iac01.ucalgary.ca/FGSA/Public/SpecificAward.aspx?AwardID=4448"
+  url = "https://iac01.ucalgary.ca/FGSA/Public/SpecificAward.aspx?AwardID=4448"
 #  certificate_url = "https://www.coursera.org"
-  date_start = "2019-05-01"
-  date_end = "2020-04-30"
-  description = ""
+  date_start = ""
+  date_end = ""
+  description = """
+  For details of the Eyes High program of the University of Calgary, follow the [link](https://www.ucalgary.ca/eyeshigh).
+  Awarded in the following years:
   
-[[item]]
+  * 2015
+  * 2016
+  * 2017
+  * 2019
+  
+  """
+  
+<!-- [[item]]
   organization = "Department of Economics, University of Calgary"
   organization_url = "https://econ.ucalgary.ca/"
-  title = "Teaching Assistance Excellence Award 2018-2019"
+  title = "Teaching Assistant Excellence Prize 2018-2019"
 #  url = 
 #  certificate_url = "https://www.coursera.org"
   date_start = "2019-05-01"
@@ -66,7 +75,7 @@ date_format = "Jan 2006"
 #  certificate_url = "https://www.coursera.org"
   date_start = "2015-05-01"
   date_end = ""
-  description = ""
+  description = "" -->
 
 #[[item]]
 #  organization = "edX"
