@@ -16,7 +16,7 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "[Michael Scott Tayloy](https://www.mstaylor1.org/)"
+  title = "Michael Scott Taylor"
   content = """
   Professor
   Department of Economics
@@ -33,8 +33,8 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_label = "Visit personal website"
+  cta_url = "https://www.mstaylor1.org/"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
