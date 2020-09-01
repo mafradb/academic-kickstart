@@ -27,8 +27,9 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2020-04-30"
   description = """
-  For more details on the Eyes High Strategy of the University of Calgary, click [here](https://www.ucalgary.ca/eyeshigh)
-  Receiwed in the following years:
+  For more details on the Eyes High Strategy of the University of Calgary, click [here](https://www.ucalgary.ca/eyeshigh) .
+  
+  Received in the following years:
   
   * 2019
   * 2017
@@ -37,7 +38,7 @@ date_format = "Jan 2006"
   
   """
 
-  subtitle = "Prizes"
+subtitle = "Prizes"
 
 [[item]]
   organization = "Department of Economics, University of Calgary"
