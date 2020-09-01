@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
-subtitle = "Awards"
+subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   date_start = "2019-07-01"
   date_end = ""
   description = """
-  The Teaching Assistant Excellence Prize is awarded to the top teaching assistant by the Department of Economics once every school year.
+  Awarded to the top teaching assistant by the Department of Economics once every school year.
   """
   
 [[item]]
@@ -57,7 +57,9 @@ date_format = "Jan 2006"
 #  certificate_url = "https://www.coursera.org"
   date_start = "2016-06-01"
   date_end = ""
-  description = ""
+  description = """
+  Awarded yearly to the student with the best average in the Econometrics courses mandatory for Economics PhD students.
+  """
   
 [[item]]
   organization = "Department of Economics, University of Calgary"
@@ -67,7 +69,9 @@ date_format = "Jan 2006"
 #  certificate_url = "https://www.coursera.org"
   date_start = "2015-06-01"
   date_end = ""
-  description = ""
+  description = """
+  Awarded yearly to the student with the best average in the Microeconomics courses mandatory for Economics PhD students.
+  """
 
 #[[item]]
 #  organization = "edX"
