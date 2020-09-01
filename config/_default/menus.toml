@@ -24,14 +24,9 @@
   weight = 40
   
 [[main]]
-  name = "References"
-  url = "#people"
-  weight = 50
-  
-[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 50
   
 #[[main]]
 #  name = "Experience"
