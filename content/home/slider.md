@@ -34,21 +34,21 @@ height = ""
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
-<!-- [[item]]
-  title = "Ref2"
-  content = "I am left aligned :smile:"
-  align = "center"
+  #[[item]]
+  #  title = "Ref2"
+  #  content = "I am left aligned :smile:"
+  #  align = "center"
 
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  #  overlay_color = "#555"  # An HTML color value.
+  #  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  #  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-[[item]]
-  title = "Ref3"
-  content = "I am right aligned :smile:"
-  align = "center"
+  #[[item]]
+  #  title = "Ref3"
+  #  content = "I am right aligned :smile:"
+  #  align = "center"
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1. -->
+  #  overlay_color = "#333"  # An HTML color value.
+  #  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  #  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
