@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
@@ -18,35 +18,34 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
 [[item]]
   organization = "University of Calgary"
   organization_url = "https://www.ucalgary.ca/"
   title = "Eyes High International Doctoral Scholarship"
-  url = "https://iac01.ucalgary.ca/FGSA/Public/SpecificAward.aspx?AwardID=4448"
+#  url = "https://iac01.ucalgary.ca/FGSA/Public/SpecificAward.aspx?AwardID=4448"
 #  certificate_url = "https://www.coursera.org"
-  date_start = ""
-  date_end = ""
-  description = """
-  For details of the Eyes High program of the University of Calgary, follow the [link](https://www.ucalgary.ca/eyeshigh).
-  Awarded in the following years:
+  date_start = "2019-05-01"
+  date_end = "2020-04-30"
+  description = ""
   
-  * 2015
-  * 2016
-  * 2017
-  * 2019
-  
-  """
-
-subtitle = "Prizes"
 [[item]]
   organization = "Department of Economics, University of Calgary"
   organization_url = "https://econ.ucalgary.ca/"
-  title = "Teaching Assistant Excellence Prize 2018-2019"
+  title = "Teaching Assistance Excellence Award 2018-2019"
 #  url = 
 #  certificate_url = "https://www.coursera.org"
   date_start = "2019-05-01"
   date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "University of Calgary"
+  organization_url = "https://www.ucalgary.ca/"
+  title = "Eyes High International Doctoral Scholarship"
+#  url = 
+#  certificate_url = "https://www.coursera.org"
+  date_start = "2015-05-01"
+  date_end = "2018-04-30"
   description = ""
   
 [[item]]
@@ -68,7 +67,7 @@ subtitle = "Prizes"
   date_start = "2015-05-01"
   date_end = ""
   description = ""
-  
+
 #[[item]]
 #  organization = "edX"
 #  organization_url = "https://www.edx.org"
