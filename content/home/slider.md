@@ -16,12 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Michael Scott Taylor"
-  content = """
-  Professor
-  Department of Economics
-  University of Calgary
-  """
+  title = "M. Scott Taylor"
+  content = "Professor, Department of Economics, University of Calgary"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
