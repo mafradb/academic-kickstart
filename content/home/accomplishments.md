@@ -36,9 +36,7 @@ date_format = "Jan 2006"
   * 2015
   
   """
-
-subtitle = "Prizes"
-
+  
 [[item]]
   organization = "Department of Economics, University of Calgary"
   organization_url = "https://econ.ucalgary.ca/"
