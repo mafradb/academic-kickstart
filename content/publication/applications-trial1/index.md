@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Previous work finds women are in many settings less competitive than men. I examine how women’s relative dislike for competition affects their college application choices. I exploit a policy intervention in Hungary which generates exogenous variation in the competitiveness of college admissions. I use administrative data on applicants to estimate whether women responded differently than men to the higher competitive pressure after the intervention. I find that women select study programs with more competition for admission than men both before and after the intervention. After the intervention this difference narrows as women select programs with lower competitive pressure than men."
+abstract: "Previous work finds women are, in many settings, less competitive than men. I examine how women’s dislike for competition affects their college application choice by exploiting a (surprise) policy intervention in Hungary which drastically altered the competitiveness of college admissions. Using administrative data on applications, from both men and women, pre and post intervention, I find women's choices reveal a strong dislike for heightened competition. In this high-stakes setting, I find both men and women adjust by shifting their application choices towards less competitive programs.  The shift in women's choices was however more than 50% larger than that for comparable men and not driven by differences in risk preferences."
 
 # Summary. An optional shortened abstract.
 summary: ""
