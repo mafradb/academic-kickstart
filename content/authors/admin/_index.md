@@ -7,7 +7,7 @@ authors:
 - admin
 
 # User group
-user_groups = ["References", "Researchers"]
+user_groups = ["Researchers"]
 
 # Is this the primary user of the site?
 superuser: false
