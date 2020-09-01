@@ -1,7 +1,6 @@
 ---
 # Display name
-name:
-- Jakab Gipsz
+name: Jakab Gipsz
 
 # Username (this should match the folder name)
 authors:
