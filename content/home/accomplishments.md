@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
-subtitle = "Awards"
+subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   organization = "University of Calgary"
   organization_url = "https://www.ucalgary.ca/"
   title = "Eyes High International Doctoral Scholarship"
-#  url = "https://iac01.ucalgary.ca/FGSA/Public/SpecificAward.aspx?AwardID=4448"
+  url = "https://iac01.ucalgary.ca/FGSA/Public/SpecificAward.aspx?AwardID=4448"
 #  certificate_url = "https://www.coursera.org"
   date_start = "2019-05-01"
   date_end = "2020-04-30"
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Department of Economics, University of Calgary"
   organization_url = "https://econ.ucalgary.ca/"
-  title = "Teaching Assistance Excellence Award 2018-2019"
+  title = "Teaching Assistant Excellence Prize 2018-2019"
 #  url = 
 #  certificate_url = "https://www.coursera.org"
   date_start = "2019-05-01"
