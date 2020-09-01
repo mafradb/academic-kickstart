@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Eyes High International Doctoral Scholarship"
   url = "https://iac01.ucalgary.ca/FGSA/Public/SpecificAward.aspx?AwardID=4448"
 #  certificate_url = "https://www.coursera.org"
-#  date_start = "2019-05-01"
-#  date_end = "2020-04-30"
+  date_start = ""
+  date_end = ""
   description = """
   For more details on the Eyes High Strategy of the University of Calgary, click [here](https://www.ucalgary.ca/eyeshigh).
   Received in the following years:
@@ -47,7 +47,9 @@ subtitle = "Prizes"
 #  certificate_url = "https://www.coursera.org"
   date_start = "2019-05-01"
   date_end = ""
-  description = ""
+  description = """
+  The Teaching Assistant Excellence Prize is awarded to the top teaching assistant by the Department of Economics once every school year.
+  """
   
 [[item]]
   organization = "University of Calgary"
