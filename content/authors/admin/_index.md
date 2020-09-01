@@ -6,9 +6,6 @@ name: Jakab Gipsz
 authors:
 - admin
 
-# User group
-user_groups = ["Researchers"]
-
 # Is this the primary user of the site?
 superuser: false
 
@@ -75,8 +72,8 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
+user_groups:
+- Researchers
 #- Visitors
 ---
 
