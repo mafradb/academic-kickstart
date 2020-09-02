@@ -35,7 +35,7 @@ height = ""
   cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Jean-William P. Laliberté"
+  title = "Jean-William Laliberté"
   content = "Assistant Professor, Department of Economics, University of Calgary"
   align = "center"
 
