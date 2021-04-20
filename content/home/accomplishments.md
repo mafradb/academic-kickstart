@@ -21,6 +21,18 @@ date_format = "Jan 2006"
 [[item]]
   organization = "University of Calgary"
   organization_url = "https://www.ucalgary.ca/"
+  title = "University of Calgary Graduate Studies Scholarship, 2021"
+  url = "https://iac01.ucalgary.ca/FGSA/Public/SpecificAward.aspx?AwardID=5915"
+#  certificate_url = "https://www.coursera.org"
+  date_start = "2021-02-10"
+  date_end = ""
+  description = """
+  Awarded yearly to eligible full-time graduate students.
+  """
+
+[[item]]
+  organization = "University of Calgary"
+  organization_url = "https://www.ucalgary.ca/"
   title = "Eyes High International Doctoral Scholarship"
   url = "https://iac01.ucalgary.ca/FGSA/Public/SpecificAward.aspx?AwardID=4448"
 #  certificate_url = "https://www.coursera.org"
