@@ -4,7 +4,7 @@
 title: "International Trade, Noise Pollution, and Killer Whales"
 authors: [M. Scott Taylor, Fruzsina Mayer]
 date: 2023-06-18T08:59:04-07:00
-doi: "10.3386/w31390"
+doi: "https://www.nber.org/papers/w31390"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-06-18T08:59:04-07:00
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://www.nber.org/papers/w31390"
+url_pdf: "https://www.nber.org/system/files/working_papers/w31390/w31390.pdf"
 url_code:
 url_dataset:
 url_poster:
