@@ -10,33 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Research Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Economics, University of Calgary
-  url: "https://econ.ucalgary.ca/"
+- name: Economic and Social Analysis and Modelling Division, Statistics Canada
+  url: "https://www.statcan.gc.ca/en/start"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My main research interests are Labour Economics, Political Economy, and Gender Economics.
 
 interests:
+- Public Policy
 - Labour Economics
 - Applied Econometrics
-- Political Economy
 - Data Science
 - Gender Economics
 - Natural Resource Economics
 
 education:
   courses:
-  - course: PhD in Economics
+  - course: Ph.D. in Economics
     institution: University of Calgary
-    year: Expected 2021
-  - course: MSc in Economics
+    year: 2021
+  - course: M.Sc. in Economics
     institution: Vienna University of Technology and Institute for Advanced Studies
     year: 2014
-  - course: BA in Applied Economics
+  - course: B.A. in Applied Economics
     institution: Eötvös Loránd University
     year: 2012
 
@@ -76,6 +76,6 @@ email: ""
 #- Visitors
 ---
 
-I am a PhD candidate in Economics at the University of Calgary. My main research interests are Labour Economics, Political Economy, and Gender Economics.
+I am a Research Analyst at the Economic and Social Analysis and Modelling Division of Statistics Canada. I am part of the team developing the Social Policy Simulation Database and Model (SPSD/M), the microsimulation model of the Canadian tax and transfer system published by Statistics Canada. As part of my work I extend this model with federal and provincial tax policy changes, teach courses on the use of the SPSD/M, and help users emply this versatile tool in designing and analysing fiscal policy.
 
-I expect to graduate in 2021 and will be available for interviews on this year's virtual European, Canadian, and American job markets.
+I hold a Ph.D. in Economics from the University of Calgary where I specialized in applied microeconomics.
