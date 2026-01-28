@@ -19,11 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Research Analyst"
+  company = "Economic and Social Analysis and Modelling Division, Statistics Canada"
+#  company_url = ""
+  date_start = "2024-05-01"
+  date_end = ""
+  #description = """ """
+
+[[experience]]
+  title = "Economist"
+  company = "Economic and Social Analysis and Modelling Division, Statistics Canada"
+#  company_url = ""
+  date_start = "2021-07-01"
+  date_end = "2024-04-30"
+  #description = """ """
+
+[[experience]]
   title = "Research Assistant to Dr. M. Scott Taylor"
   company = "University of Calgary"
 # company_url = ""
-  date_start = "2019-07-01"
-  date_end = ""
+  date_start = "2016-01-01"
+  date_end = "2021-08-01"
 #  description = """
 #  Responsibilities include:
   
@@ -33,36 +49,12 @@ date_format = "Jan 2006"
 #  """
 
 [[experience]]
-  title = "Instructor for Statistics in Economics course"
+  title = "Instructor for Use of Statistics in Economics course"
   company = "University of Calgary"
 #  company_url = ""
   date_start = "2019-05-01"
   date_end = "2019-06-01"
   #description = """Course description available [here](https://econ.ucalgary.ca/manageprofile/sites/econ.ucalgary.ca.manageprofile/files/unitis/courses/ECON395/P2019/LEC1/ECON395-P2019-LEC1-outline.pdf)."""
-
-[[experience]]
-  title = "Teaching Assistant for Statistics in Economics course"
-  company = "University of Calgary"
-#  company_url = ""
-  date_start = "2019-01-01"
-  date_end = "2019-04-01"
-#  description = """Taught electronic engineering and researched semiconductor physics."""
-
-[[experience]]
-  title = "Research Assistant to Dr. M. Scott Taylor"
-  company = "University of Calgary"
-#  company_url = ""
-  date_start = "2016-01-01"
-  date_end = "2018-12-01"
-#  description = """Taught electronic engineering and researched semiconductor physics."""
-
-[[experience]]
-  title = "Teaching Assistant for Principles in Macroeconomics course"
-  company = "University of Calgary"
-#  company_url = ""
-  date_start = "2015-09-01"
-  date_end = "2015-12-01"
-#  description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
   title = "Research Assistant for Dr. Pamela Campa"
@@ -77,10 +69,12 @@ date_format = "Jan 2006"
   company = "University of Calgary"
 #  company_url = ""
   date_start = "2014-09-01"
-  date_end = "2015-06-01"
+  date_end = "2019-04-30"
   description = """
   Courses in order:
   
+  * Use of Statistics in Economics, Winter 2019
+  * Principles in Macroeconomics, Fall 2015
   * Canadian Public Finance, Spring 2015
   * Environmental Economics, Winter 2015
   * The Global Trading System, Winter 2015
