@@ -76,6 +76,6 @@ email: ""
 #- Visitors
 ---
 
-I am a Research Analyst at the Economic and Social Analysis and Modelling Division of Statistics Canada. I am part of the team developing the Social Policy Simulation Database and Model (SPSD/M), the microsimulation model of the Canadian tax and transfer system published by Statistics Canada. As part of my work I extend this model with federal and provincial tax policy changes, teach courses on the use of the SPSD/M, and help users emply this versatile tool in designing and analysing fiscal policy.
+I am a Research Analyst at the Economic and Social Analysis and Modelling Division of Statistics Canada. I am part of the team developing the [Social Policy Simulation Database and Model (SPSD/M)](https://www.statcan.gc.ca/en/microsimulation/spsdm/spsdm), the microsimulation model of the Canadian tax and transfer system published by Statistics Canada. As part of my work I extend this model with federal and provincial tax policy changes, teach courses on the use of the SPSD/M, and help users emply this versatile tool in designing and analysing fiscal policy.
 
 I hold a Ph.D. in Economics from the University of Calgary where I specialized in applied microeconomics.
