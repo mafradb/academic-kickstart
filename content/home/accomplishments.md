@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   organization = "Department of Economics, University of Calgary"
   organization_url = "https://econ.ucalgary.ca/"
   title = "Teaching Assistant Excellence Prize 2018-2019"
-  url = https://arts.ucalgary.ca/economics/about/student-awards#:~:text=PhD%20Teaching%20Assistant%20Excellence%20Prize
+  url = "https://arts.ucalgary.ca/economics/about/student-awards#:~:text=PhD%20Teaching%20Assistant%20Excellence%20Prize"
 #  certificate_url = "https://www.coursera.org"
   date_start = "2019-07-01"
   date_end = ""
