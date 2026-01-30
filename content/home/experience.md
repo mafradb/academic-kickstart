@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   #description = """ """
 
 [[experience]]
-  title = "Research Assistant to Dr. M. Scott Taylor"
+  title = "Research Assistant to [Dr. M. Scott Taylor](https://www.mstaylor1.org/)"
   company = "University of Calgary"
 # company_url = ""
   date_start = "2016-01-01"
