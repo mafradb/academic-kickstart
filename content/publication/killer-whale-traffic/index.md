@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "International Trade, Noise Pollution, and Killer Whales"
-authors: [M. Scott Taylor, Fruzsina Mayer]
+authors: [[Dr. M. Scott Taylor](https://www.mstaylor1.org/), Fruzsina Mayer]
 date: 2023-06-18T08:59:04-07:00
 doi: "10.3386/w31390"
 

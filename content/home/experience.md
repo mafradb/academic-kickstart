@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   #description = """Course description available [here](https://econ.ucalgary.ca/manageprofile/sites/econ.ucalgary.ca.manageprofile/files/unitis/courses/ECON395/P2019/LEC1/ECON395-P2019-LEC1-outline.pdf)."""
 
 [[experience]]
-  title = "Research Assistant for Dr. Pamela Campa"
+  title = "Research Assistant for [Dr. Pamela Campa](https://sites.google.com/view/pamelacampa/home)"
   company = "University of Calgary"
 #  company_url = ""
   date_start = "2015-07-01"

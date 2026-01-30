@@ -59,7 +59,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Awarded to the top teaching assistant by the Department of Economics once every school year.
-  
   Received for the work done in the Use of Statistics in Economics course in the 2019 winter term.
   """
   
